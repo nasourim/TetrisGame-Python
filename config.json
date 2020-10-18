@@ -1,0 +1,12 @@
+{
+  "screenWidth": 800,
+  "screenHeight": 600,
+  "showNext": 1,
+  "tableColumns": 10,
+  "tableRows": 21,
+  "tableWidth": 300,
+  "tableHeight": 500,
+  "startingSpeed": 0.8,
+  "showGrid": 1,
+  "fullScreen": 0
+}
